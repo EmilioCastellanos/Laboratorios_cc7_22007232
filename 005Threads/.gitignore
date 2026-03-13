@@ -1,0 +1,5 @@
+# Archivos objeto de C
+*.o
+
+# PDFs de instrucciones
+005Threads.pdf
